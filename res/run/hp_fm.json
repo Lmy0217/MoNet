@@ -1,0 +1,14 @@
+{
+  "name": "hp_framework",
+  "batch_size": 1,
+  "test_batch_size": 1,
+  "epochs": 0,
+  "save_step": 1,
+  "ol_epochs": 60,
+  "lr": 2e-6,
+  "weight_decay": 0,
+  "momentum": 0,
+  "betas": [0.9, 0.999],
+  "step_size": 1,
+  "gamma": 1
+}

@@ -1,0 +1,20 @@
+{
+  "name": "IMUDataset",
+  "paths": {
+    "source": "../../datasets/IMUDataset/Data"
+  },
+  "data_mode": "Carotid",
+  "train_test_range": [17, 3],
+  "series_train_count": 40,
+  "series_test_count": 10,
+  "frame_rate": [1, 11],
+  "series_length": [20, 120],
+  "source": {
+    "width": 313,
+    "height": 287,
+    "channel": 2
+  },
+  "target": {
+    "elements": 15
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Online_Framework",
+  "backbone_weight": "./save/online_bk-hp_bk-Arm/online_bk_backbone_last.pth",
+  "angle": true,
+  "accele": true
+}
